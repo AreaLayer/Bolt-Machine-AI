@@ -1,2 +1,6 @@
 # Lightning-AI-PoC
-Simple Prof of Concept on Lightning AI
+
+Simple Proof of Concept on Lightning AI
+
+## How works?
+
