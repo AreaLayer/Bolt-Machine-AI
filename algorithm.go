@@ -110,3 +110,20 @@ func main() {
 				Reputation: 0.6,
 				Channels:   []Channel{},
 			},
+
+	// Simulate the AI performing actions
+	action := rand.Intn(4) // Choose a random action (0 to 3)
+
+	switch action {
+	case 0:
+		ai.OpenChannel()
+	case 1:
+		ai.CloseChannel()
+	case 2:
+		ai.ReplaceChannel()
+	case 3:
+		ai.FindBetterInboundLiquidity()
+	default:
+		fmt.Println("Invalid action")
+	}
+}
