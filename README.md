@@ -30,5 +30,6 @@ Simple Proof of Concept on Lightning AI
         Look for nodes that have well-connected channels and high inbound liquidity.
         Initiate the channel closing process for the identified channels with poor inbound liquidity.
         Follow the steps for opening new channels with nodes that provide better inbound liquidity.
+        The data can be backed by Ambooss, 1ML, LightningNetwork+, etc
 
 Note: The implementation details of each step may vary depending on the specific Lightning Network implementation you are using. Additionally, it's important to consider factors like network topology, transaction fees, and security when making decisions about opening, closing, or replacing channels.
