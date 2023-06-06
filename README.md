@@ -33,3 +33,9 @@ Simple Proof of Concept on Lightning AI
         The data can be backed by Ambooss, 1ML, LightningNetwork+, etc
 
 Note: The implementation details of each step may vary depending on the specific Lightning Network implementation you are using. Additionally, it's important to consider factors like network topology, transaction fees, and security when making decisions about opening, closing, or replacing channels.
+
+## Roadmap
+
+- [x] Released PoC
+- [ ] LND integration
+- [ ] Testnet
