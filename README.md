@@ -25,6 +25,8 @@ Simple Proof of Concept on Lightning AI
     	Follow the steps for opening a new channel to replace the closed channel.
 
 
+
+
     	Find Better Inbound Liquidity:
     	Collect information about your node's current inbound liquidity and its associated channels.
     	Evaluate the liquidity levels, fees, and activity of the existing channels.
