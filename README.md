@@ -16,12 +16,14 @@ Simple Proof of Concept on Lightning AI
     	Identify channels that are no longer beneficial or have low liquidity.
     	Initiate the channel closing process for the identified channels.
 
+
    	Replace Channel:
     	Gather information about the available nodes and their channels.
     	Evaluate existing channels based on factors such as liquidity, fees, and activity.
     	Identify channels that could be replaced with better options.
     	Initiate the channel closing process for the identified channels.
     	Follow the steps for opening a new channel to replace the closed channel.
+
 
     	Find Better Inbound Liquidity:
     	Collect information about your node's current inbound liquidity and its associated channels.
