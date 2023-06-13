@@ -1,6 +1,6 @@
-# Lightning AI (PoC)
+# Bolt Machine(PoC)
 
-Simple Proof of Concept on Lightning AI
+Simple Proof of Concept on Bolt Machine
 
 ## How works?
 
