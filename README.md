@@ -1,4 +1,4 @@
-# Bolt Machine(PoC)
+# Bolt Machine (PoC)
 
 Simple Proof of Concept on Bolt Machine
 
